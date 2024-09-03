@@ -1,0 +1,177 @@
+.body{
+    -fx-background: #FFFFFF;
+}
+
+.credit-interest{
+    -fx-font-size:25px;
+    -fx-font-weight:bold;
+    -fx-padding:10px;
+
+}
+
+.logo-label{
+    -fx-font-size:18px;
+        -fx-font-weight:bold;
+        -fx-background-color:#4F1D1D;
+        -fx-text-fill:white;
+        -fx-padding:0px;
+}
+
+.types-label{
+    -fx-font-size:14px;
+    -fx-font-weight:bold;
+}
+
+.ziraatbankasi-label{
+    -fx-font-size:14px;
+    -fx-text-fill:#94170f;
+    -fx-font-weight:bold;
+}
+
+.inputs-label{
+    -fx-font-size:14px;
+    -fx-font-weight:bold;
+}
+
+.outputs-label{
+    -fx-font-size:14px;
+    -fx-font-weight:bold;
+}
+
+.ziraatbankasi-calculate-btn{
+    -fx-font-size:14px;
+    -fx-font-weight:normal;
+    -fx-text-fill:white;
+    -fx-background-color:#94170f;
+
+}
+
+.ziraatbankasi-calculate-btn:hover{
+    -fx-font-size:14px;
+    -fx-font-weight:normal;
+    -fx-text-fill:white;
+    -fx-background-color:#de2216;
+
+}
+
+.ziraatbankasi-calculate-btn:pressed{
+    -fx-opacity:0.82;
+}
+
+.ziraatbankasi-combo-box{
+    -fx-background-color:#94170f;
+    -fx-font-weight:normal;
+    -fx-font-size:12px;
+    -fx-control-inner-background:#94170f;
+    -fx-text-fill:white;
+}
+
+.ziraatbankasi-combo-box:hover{
+ -fx-background-color:#de2216;
+}
+
+.ziraatbankasi-combo-box .list-cell{
+    -fx-text-fill:white;
+}
+
+.garantibankasi-label{
+    -fx-font-size:14px;
+    -fx-text-fill:#079411;
+    -fx-font-weight:bold;
+}
+
+.garantibankasi-calculate-btn{
+    -fx-font-size:14px;
+    -fx-font-weight:normal;
+    -fx-text-fill:white;
+    -fx-background-color:#079411;
+
+}
+
+.garantibankasi-calculate-btn:hover{
+    -fx-font-size:14px;
+    -fx-font-weight:normal;
+    -fx-text-fill:white;
+    -fx-background-color:#08c715;
+
+}
+
+.garantibankasi-calculate-btn:pressed{
+    -fx-opacity:0.82;
+}
+
+.garantibankasi-combo-box{
+    -fx-background-color:#079411;
+        -fx-control-inner-background:#079411;
+    -fx-font-size:12px;
+    -fx-font-weight:normal;
+    -fx-text-fill:white;
+
+
+
+}
+
+.garantibankasi-combo-box:hover{
+ -fx-background-color:#08c715;
+}
+
+.garantibankasi-combo-box .list-cell{
+    -fx-text-fill:white;
+}
+
+
+.isbankasi-label{
+    -fx-font-size:14px;
+    -fx-text-fill:#0748ab;
+    -fx-font-weight:bold;
+}
+
+.isbankasi-calculate-btn{
+    -fx-font-size:14px;
+    -fx-font-weight:normal;
+    -fx-text-fill:white;
+    -fx-background-color:#0748ab;
+
+}
+
+.isbankasi-calculate-btn:hover{
+    -fx-font-size:14px;
+    -fx-font-weight:normal;
+    -fx-text-fill:white;
+    -fx-background-color:#0566fa;
+
+}
+
+.isbankasi-calculate-btn:pressed{
+    -fx-opacity:0.82;
+}
+
+.isbankasi-combo-box{
+    -fx-background-color:#0748ab;
+        -fx-control-inner-background:#0748ab;
+    -fx-font-size:12px;
+    -fx-font-weight:normal;
+    -fx-text-fill:white;
+
+
+}
+
+.isbankasi-combo-box:hover{
+ -fx-background-color:#0566fa;
+}
+
+.isbankasi-combo-box .list-cell{
+    -fx-text-fill:white;
+}
+
+/*.text-area{
+        -fx-font-size:16px;
+        -fx-control-inner-background: #4F1D1D;
+
+}
+/*.setting-combo-box{
+    -fx-font-size:16px;
+    -fx-control-inner-background:#4F1D1D;
+    -fx-background-color:#4F1D1D;
+
+}*/
